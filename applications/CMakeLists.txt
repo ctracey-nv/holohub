@@ -109,6 +109,7 @@ add_holohub_application(pipeline_visualization)
 add_holohub_application(polyp_detection)
 
 add_holohub_application(pva_video_filter)
+add_holohub_application(pva_radar_pipeline)
 
 add_holohub_application(prohawk_video_replayer DEPENDS OPERATORS prohawk_video_processing)
 
